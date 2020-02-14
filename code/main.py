@@ -8,7 +8,7 @@ import torch.nn as nn
 from torch.utils.data import DataLoader, Dataset
 import torch.optim as optim
 import matplotlib.pyplot as plt
-from my_utils import AD_NL_data
+from my_utils import *
 
 # define path
 home_path = '/home/kyuchoi/AD_transfer'
